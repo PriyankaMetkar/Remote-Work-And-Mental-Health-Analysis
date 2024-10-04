@@ -1,4 +1,4 @@
-# Remote Work And Mental Health Analysis Dashboard and Report
+# 🏠💻 Remote Work & Mental Health Analysis Dashboard & Report
 
 As a part of this project I have created two types of visualizations as listed below: 
 
