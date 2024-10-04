@@ -33,6 +33,8 @@ The project is divided into two parts: **Power BI Visualizations** and **Python 
 
 ### 1. Power BI Visualizations
 
+- **PowerBI Live Visualizations Link**: [Click here for PowerBI Visualizations Live Dashboard/Report](https://app.powerbi.com/groups/me/reports/fec35bb6-24b6-483e-ad3f-12f2a2dd9c43/9e7263cd559878c4fba2?experience=power-bi)
+
 The following Power BI visualizations are included to analyze the Remote Work and Mental Health dataset:
 
 1. **Stress Level by Age**: Analyze how stress levels vary across different age groups of employees working remotely, onsite, or in hybrid settings.
@@ -90,8 +92,10 @@ These Power BI visualizations help to answer key questions about the relationshi
 
 ---
 
-### 2. Python Visualizations
+### 2. Python Visualizations 
 
+- **Python Live Visualizations Link**: [Click here for Python Visualizations Live Report](https://priyankametkar.github.io/Remote-Work-And-Mental-Health-Analysis/)
+  
 The following Python visualizations are included to analyze the Remote Work and Mental Health dataset:
 
 1. **Descriptive Analysis of Stress Levels**: Perform a descriptive analysis (mean, median, mode) of the stress levels of employees.
